@@ -1,4 +1,4 @@
-# CAL_Proj_17-18
+# Easy Pilot 
 Solving CAL's group project (Conception and Analysis of Algorithms)
 
 The project consisted of using **pathfinding algorithms** on **graph** structures and study their complexity and use cases.
